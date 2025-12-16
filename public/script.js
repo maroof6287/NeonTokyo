@@ -3,7 +3,7 @@ import { Attribution } from "https://esm.sh/ox/erc8021";
 import { $, $all, toast, haptic, clamp } from "./NeonTokyo-ui.js";
 
 // Base Builder Code: find yours at base.dev → Settings → Builder Code
-const BUILDER_CODE = "TODO_REPLACE_BUILDER_CODE";
+const BUILDER_CODE = "bc_3rs6zf0c";
 const RECIPIENT = "0x04514c3d1a7074E6972190A5632875F4d14785F8";
 
 const USDC_BASE = "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913";
