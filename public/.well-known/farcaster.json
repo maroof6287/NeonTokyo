@@ -1,0 +1,31 @@
+{
+  "accountAssociation": {
+    "header": "TODO_REPLACE_BASE64_HEADER",
+    "payload": "TODO_REPLACE_BASE64_PAYLOAD",
+    "signature": "TODO_REPLACE_BASE64_SIGNATURE"
+  },
+  "miniapp": {
+    "version": "1",
+    "name": "NeonTokyo",
+    "homeUrl": "https://neontokyo-miniapp.example/",
+    "iconUrl": "https://neontokyo-miniapp.example/assets/icon.png",
+    "splashImageUrl": "https://neontokyo-miniapp.example/assets/splash.png",
+    "splashBackgroundColor": "#020617",
+    "subtitle": "Mech-cockpit deep work HUD",
+    "description": "Start a neon focus session: cockpit HUD, glitchy blockers, and tactile Pomodoro flows built for makers.",
+    "primaryCategory": "Productivity / Developer Tools",
+    "tags": [
+      "fun",
+      "simple",
+      "utility"
+    ],
+    "heroImageUrl": "https://neontokyo-miniapp.example/assets/hero.png",
+    "ogTitle": "NeonTokyo",
+    "ogDescription": "Start a neon focus session: cockpit HUD, glitchy blockers, and tactile Pomodoro flows built for makers.",
+    "ogImageUrl": "https://neontokyo-miniapp.example/assets/hero.png",
+    "screenshotUrls": [
+      "https://neontokyo-miniapp.example/assets/hero.png"
+    ],
+    "noindex": true
+  }
+}
